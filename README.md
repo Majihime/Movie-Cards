@@ -1,3 +1,9 @@
-# Movie-Cards
+# Movie Cards
+
+## About
+A stylized personal page featuring ten of my favorite movies. You can feel free to repurpose this code for your own personal page. The live page is viewable here: https://majihime.github.io/Movie-Cards/
+
 ---
-A standalone HTML/CSS hub of 10 movies everyone should watch.
+
+### Credits
+- Film posters sourced from Wikipedia and IMDB.
